@@ -1,0 +1,30 @@
+#Enhan Zhao 11097118 CMPT 141(01) L09
+
+Error: Returned None on inputs [0, 0, 0] (should return True as there are 3 zeros in sequence and their sum is zero)
+Error: Returned None on inputs [0, 0, 1] (should return False, as there is no way for a sum of 0)
+Error: Returned None on inputs [0, 0] (even though sequence sum is zero, it only contains 2 items)
+Error: Returned None on inputs [0, 1] (sum is not zero, and sequence only contain 2 items)
+Error: Returned False on inputs [0, 0, 0, 1, 1, 1, 1, 1, 1] (should return True if function iterates over the first item)
+Error: Returned False on inputs [0, 0, 0, 1, 1, 1, 1, 1, 1] (should return True if function iterates over the last item)
+Error: Returned None on inputs [] (should return False with empty sequence)
+Error: Returned False on inputs [0, 0, 0, 10, 10] (test for when the intergers need for sum 0 is in the beginning, the middle and the end of the sequence)
+Error: Returned False on inputs [-4, -2, -1, 1, 2, 3] (test for first second and third are at least one item away from each other)
+Error: Returned None on inputs [-5, 0, 2, 3] (test for when first is at least one item away from second and third)
+Error: Returned False on inputs [-11, -10, 0, 1, 20, 21] (test for when third is at least one item away from first and second)
+
+
+
+
+
+The function does not account for situations where the list it takes contains less than three items.
+Instead of returning None, there should be code in the beginning that return False when givien a short list:
+ex: if len(in_list) < 3:
+	return False
+       
+The indices are not initialized properly. 
+first should start on in_list[0], not in_list[1]. Therefore the for loop should have -2, not -3
+third should start on in_list[len(in_list)-1] or in_list[-1], not in_list[-2]. 
+As a result of these errors, the first and last item of the sequence is not covered in the iteration. 
+
+In the assignment PDF the last line returns (False) however in the starter file, it doesnt. Either way,
+the last line should read: return False

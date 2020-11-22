@@ -1,0 +1,35 @@
+#Enhan Zhao 11097118 CMPT 141(01) L09
+
+BB test ThreeSUM #################################
+
+Input: [0, 0, 0]
+Output: True
+Reason: Test if the function works with mistake proof case when the list contains 3 zeros
+
+Input: [0, 0, 1]
+Output: False
+Reason: Test if the function returns False on a sequence that cannot add up to 0
+
+Input: [0, 0]
+Output: False
+Reason: Test when the argument only contains 2 items that add up to 0
+
+Input: [0, 1]
+Output: False
+Reason: Test when the argument only contains 2 items that doesnt add up to 0
+
+
+WB test ThreeSUM ####################################
+
+Input: [0, 1, 1, 1, 0, 0, 1, 1, 1]
+Output: True
+Reason: Test if first index covers the first item in sequence
+
+Input: [1, 1, 1, 1, 0, 0, 1, 1, 0]
+Output: True
+Reason: Test if third index covers the last item in sequence
+
+Input: []
+Output: False
+Reason: Test first for loop with empty sequence
+

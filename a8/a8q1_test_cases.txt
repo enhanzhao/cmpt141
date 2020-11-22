@@ -1,0 +1,53 @@
+#Enhan Zhao 11097118 CMPT 141(01) L09
+
+test_func_between##################################
+
+Input: 50, 1, 100
+Output: True
+Reason: Test for when num1 is between num2(low end) and num3(high end)
+
+Input: 50, 100, 1
+Output: True
+Reason: Test when num1 is in between num2(high end) and num3 (low end)
+
+Input: 100, 1, 50
+Output: False
+Reason: Test when num1 is greater than num2 and num3 thus not in between num2 and num3
+
+Input: -50, -1, -100
+Output: True
+Reason: num1 is negative and inbetween num2 and num3, which are also negative intergers
+
+Input: 0, 0, 0
+Output: False
+Reason: Test for when all 3 numbers are zeros, thus num1 is not in between num2 and num3
+
+Input: 0, -1, 1
+Output: True
+Reason: Test for when num1 is in between num2 and num3, when one is negative and one is positive
+
+test_func_majority3#############################################
+
+Input: [1, 1, 0, 3, -3]
+Output: True
+Reason: Test for zeros, positive, and negative numbers. If one does not work then ouput will be False
+
+Input: []
+Output: False
+Reason: Test the for loop in function when there is an empty sequence
+
+Input: [111111111111111111111111111111, 111111111111111111111, 111111111111111, 111111111111, 111111, 1, 1, 1]
+Output: True
+Reason: Test when 5 large numbers divisible by 3 are more than 50% of sequence
+
+Input: [-111111111111111111111111111111, -111111111111111111111, -111111111111111, -111111111111, -111111, -1, -1, -1]
+Output: True
+Reason: Test when 5 small numbers divisible by 3 are more than 50% of the sequence
+
+Input: [2, 4, 5, 3, 3, 3]
+Output: False
+Reason: Test for when exatly half the items in the sequence are divisible by 3
+
+Input: [3]
+Output: True 
+Reason: Test for a single item in the sequence divisible by 3

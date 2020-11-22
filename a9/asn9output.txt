@@ -1,0 +1,6 @@
+#Enhan Zhao 11097118 CMPT 141(01) L09
+
+
+  
+The minimum total number of wights for 95% success rate on FistOfTheFirstMen is 426
+The minimum total number of wights for 95% success rate on HardHome is 2499999

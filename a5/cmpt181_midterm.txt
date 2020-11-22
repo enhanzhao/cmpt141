@@ -1,0 +1,24 @@
+00000000,key,d,d,b,e,e,d,d,a,d,d,d,b,c,a,b,e,c,c,b,c,c,b,e,c,c,e,d,d,d,d
+10021795,Samden Cross,d,d,b,e,e,e,d,a,d,b,d,b,c,a,a,e,c,c,b,c,d,b,e,c,c,e,d,d,d,c
+11051158,Jenni Nuxulon,d,d,b,e,e,d,d,a,d,b,b,b,c,a,b,b,c,c,b,c,c,b,a,c,c,e,d,d,d,a
+10566434,Trumpo Wexler,a,d,b,b,d,b,d,a,b,e,d,b,e,a,c,d,d,b,b,c,b,b,e,c,a,e,e,d,d,a
+11257817,Abrahap Gimble,d,d,b,e,e,e,d,a,d,e,d,b,c,a,e,e,c,a,b,c,d,b,e,c,c,e,d,d,d,d
+10094446,Megen Haptron,d,d,b,b,e,d,d,a,d,d,d,b,c,a,b,e,c,c,e,c,c,b,e,c,c,e,d,d,d,b
+10975851,Dannae Evenstar,d,d,c,c,e,a,d,a,d,c,d,b,e,a,b,c,c,b,e,c,c,b,e,c,c,b,d,d,d,d
+10274304,Chip Blasterbolt,d,d,b,e,e,d,d,a,d,b,d,b,c,a,b,e,c,c,b,c,c,b,d,c,c,e,d,d,d,d
+11282853,Rev Burpo,d,d,b,e,e,a,d,a,d,c,d,b,c,a,b,e,c,c,b,c,e,b,e,c,c,e,d,d,d,d
+10202570,Atrish Benson,d,d,b,e,e,d,d,a,d,a,d,b,c,a,c,c,c,d,b,c,b,b,e,c,c,e,d,d,d,e
+10826746,Mobi Rodrik,d,d,b,c,e,c,d,a,a,c,d,b,c,a,a,e,b,b,a,c,e,b,d,a,d,c,d,d,d,e
+10690937,Garthur Cola,d,d,b,e,e,c,d,a,d,b,a,b,c,a,b,e,c,a,b,c,a,b,c,b,e,e,d,d,d,e
+10832178,Kara Moonlock,d,d,b,e,e,d,d,a,d,d,d,b,c,a,b,d,c,c,b,c,d,b,b,c,c,e,d,d,d,c
+10630417,Jimmy Scrambles,e,e,b,e,e,b,d,a,d,a,c,b,a,a,b,a,d,e,d,e,c,b,e,b,e,d,a,d,d,a
+10525083,Alia Lightside,d,d,b,a,e,c,d,a,d,a,d,b,c,a,b,e,c,c,b,c,c,b,e,c,d,e,d,d,d,a
+11279454,Hep Fass,d,d,b,e,e,c,d,a,d,d,d,b,c,a,b,e,c,c,b,c,c,b,e,c,c,e,d,d,d,b
+10935250,Shrim Shrim Ulpax,d,d,a,e,e,b,d,a,d,d,d,b,c,a,b,e,c,e,b,c,d,b,d,c,c,e,b,d,a,d
+10402918,Ackley Timpler,d,d,b,d,e,e,d,a,d,d,d,b,c,a,c,e,c,a,c,c,c,b,e,c,e,c,d,d,d,e
+11004337,Keebo Keempo,d,d,b,b,e,e,d,a,d,d,d,b,c,a,d,e,c,c,b,c,a,b,e,c,c,b,d,d,d,e
+10461276,Sanna Tunna,d,c,d,a,b,e,d,a,d,d,d,b,a,a,b,a,d,c,c,c,e,b,e,b,b,a,d,d,b,d
+10105757,Agtem Sorton,a,a,a,e,e,d,d,a,d,e,c,b,c,a,d,c,c,c,a,c,a,b,a,c,c,d,e,d,d,a
+10010717,Nikki Solar,d,c,c,d,e,a,d,a,a,c,d,b,c,a,d,e,c,c,c,c,c,b,c,c,b,e,e,d,a,c
+10857855,Delxia Forice,b,d,b,b,a,d,d,a,d,d,d,b,e,a,e,e,d,c,b,c,a,b,e,c,c,e,d,d,d,e
+10042721,Xoomio Dahl,d,d,b,e,e,d,d,a,d,e,d,b,c,a,b,e,c,c,b,c,c,b,e,c,c,e,d,d,d,d

@@ -1,0 +1,24 @@
+00000000,key,30
+10021795,Samden Cross,25
+11051158,Jenni Nuxulon,25
+10566434,Trumpo Wexler,15
+11257817,Abrahap Gimble,25
+10094446,Megen Haptron,27
+10975851,Dannae Evenstar,21
+10274304,Chip Blasterbolt,28
+11282853,Rev Burpo,27
+10202570,Atrish Benson,24
+10826746,Mobi Rodrik,16
+10690937,Garthur Cola,21
+10832178,Kara Moonlock,26
+10630417,Jimmy Scrambles,14
+10525083,Alia Lightside,25
+11279454,Hep Fass,28
+10935250,Shrim Shrim Ulpax,23
+10402918,Ackley Timpler,22
+11004337,Keebo Keempo,24
+10461276,Sanna Tunna,16
+10105757,Agtem Sorton,17
+10010717,Nikki Solar,17
+10857855,Delxia Forice,22
+10042721,Xoomio Dahl,29
